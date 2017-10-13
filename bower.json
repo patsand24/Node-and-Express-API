@@ -1,0 +1,21 @@
+{
+  "name": "library_books",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Patrick Sandoval <patsand24csu@yahoo.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
